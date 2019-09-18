@@ -3,7 +3,7 @@ module.exports = {
     title: `Life is good :)`,
     author: `Moritz`,
     description: `Static page, it is blog style`,
-    //siteUrl: ``,
+    siteUrl: `https://wwww.google.com`,
     social: {
       twitter: `Moritz03518347`,
     },
