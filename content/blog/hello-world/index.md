@@ -7,7 +7,7 @@ description: "Living and working in Lisbon Portugal"
 > This is my first post on my blog! How exciting!
 > That post is more about sharing my last experience living in **Portugal**. I hope can 
 > give you guys some useful information. It is based on my own experience.
-> I lived from January 2018 to November 2018. The information in this blog might be useful.  
+> I lived from January 2018 to November 2018. I hope that blog can help you guys out.  
 > 
 > **The job** I have got a job via web site such as [indeed](https://indeed.com) and [linkedin](https://linkedin.com).
 >  The interviews were done via skype.
