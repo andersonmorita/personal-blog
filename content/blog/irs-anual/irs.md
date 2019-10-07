@@ -11,7 +11,7 @@ description: "IRS annual declaration in Portugal"
 
 Firstly, it began in April and ended in June, 2019. It meant the period to be able to get my 2018 IRS declaration done. 
 
-Secondly, login [Portal das Finanças](www.portaldasfinancas.gov.pt.) 
+Secondly, login [Portal das Finanças](https://www.portaldasfinancas.gov.pt) 
 
 Thirdly, Click in "Finanças" as it is shown in the image below
  ![Financas](./irs1.png)
